@@ -4,6 +4,8 @@
 - https://stackoverflow.com/questions/68584096/convert-all-existing-tabs-to-spaces-in-vs-code: Used this to quickly replace tabs with spaces using VSCode
 - https://www.tutorialspoint.com/junit/index.htm: Used for JUnit overview
 - https://stackoverflow.com/questions/14396529/warning-avoid-using-implementation-types-like-hashmap-use-the-interface-inste
+- COMS 4156 GCP Demo F24.pptx
+- https://cloud.google.com/appengine/docs/standard/reference/app-yaml?tab=java
 
 ***
 
