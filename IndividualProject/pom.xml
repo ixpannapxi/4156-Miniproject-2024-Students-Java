@@ -107,7 +107,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>dev.coms4156.project.individualproject</mainClass>
+							<mainClass>dev.coms4156.project.individualproject.IndividualProjectApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
